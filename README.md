@@ -32,7 +32,7 @@ This tool is designed to help students and educators quickly identify and extrac
 1. Place your PDF files in the `pdfs/` directory
 2. Run the extractor:
    ```bash
-   python extractor.py
+   python3 extractor.py
    ```
 3. The output file `2-3_mark_pages.pdf` will be created in the project root directory
 
